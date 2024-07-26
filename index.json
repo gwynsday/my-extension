@@ -1,0 +1,24 @@
+{
+  "scripts": [
+    {
+      "name": "Azure Coven",
+      "fileName": "AzureCoven",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/MysticalMerries.png",
+      "id": 9451,
+      "lang": "en",
+      "ver": "1.0.3",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "MoonlightNovel",
+      "fileName": "MoonlightNovel",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/MoonlightNovels.png",
+      "id": 9452,
+      "lang": "en",
+      "ver": "1.1.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ]
+}
